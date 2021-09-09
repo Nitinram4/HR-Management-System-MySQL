@@ -1,7 +1,8 @@
 # HR-Management-System-MySQL
 
-System requerment
-  1) Gradle (version 6.5 or above)
+Local installation
+  
+    1) Gradle (version 6.5 or above)
 
 To Run:
 
